@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\T\\Documents\\GitHub\\ChronoCleaner_ATLJam2024\\Source\\ChronoCleaner\\ChronoCleaner.Build.cs",
+		"C:\\Users\\T\\Documents\\GitHub\\ChronoCleaner_ATLJam2024\\Source\\ChronoCleaner.Target.cs",
+		"C:\\Users\\T\\Documents\\GitHub\\ChronoCleaner_ATLJam2024\\Source\\ChronoCleanerEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
