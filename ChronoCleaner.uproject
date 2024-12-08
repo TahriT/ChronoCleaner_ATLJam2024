@@ -11,61 +11,61 @@
 		}
 	],
 	"Plugins": [
-			{
-				"Name": "ModelingToolsEditorMode",
-				"Enabled": true,
-				"TargetAllowList": [
-					"Editor"
-				]
-			},
-			{
-				"Name": "MagicNode",
-				"Enabled": true,
-				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f49e7411bc47588e0d219758d6b16f"
-			},
-			{
-				"Name": "AnimationWarping",
-				"Enabled": true
-			},
-			{
-				"Name": "RigLogic",
-				"Enabled": true
-			},
-			{
-				"Name": "LiveLink",
-				"Enabled": true
-			},
-			{
-				"Name": "LiveLinkControlRig",
-				"Enabled": true
-			},
-			{
-				"Name": "PoseSearch",
-				"Enabled": true
-			},
-			{
-				"Name": "AnimationLocomotionLibrary",
-				"Enabled": true
-			},
-			{
-				"Name": "MotionWarping",
-				"Enabled": true
-			},
-			{
-				"Name": "HairStrands",
-				"Enabled": true
-			},
-			{
-				"Name": "Chooser",
-				"Enabled": true
-			},
-			{
-				"Name": "Mover",
-				"Enabled": true
-			},
-			{
-				"Name": "NetworkPrediction",
-				"Enabled": true
-			}
-		]
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "MagicNode",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f49e7411bc47588e0d219758d6b16f"
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "PoseSearch",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "Chooser",
+			"Enabled": true
+		},
+		{
+			"Name": "Mover",
+			"Enabled": true
+		},
+		{
+			"Name": "NetworkPrediction",
+			"Enabled": true
+		}
+	]
 }
